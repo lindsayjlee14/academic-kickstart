@@ -35,6 +35,9 @@ education:
   - course: BS in Biochemistry
     institution: University of Tennessee, Knoxville
     year: 2015
+- course: BA in Hispanic Studies
+    institution: University of Tennessee, Knoxville
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
